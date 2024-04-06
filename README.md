@@ -1,20 +1,18 @@
-# [Tên dự án]
+# [PRO - READER]
 
-[Mô tả dự án]
-
-Ví dụ: Dạo gần đây, bắt đầu rộ lên phong trào trồng cây xanh ở các thành phố lớn. Để giúp người dân dễ dàng theo dõi quá trình trồng cây, chúng tôi xây dựng ứng dụng "Trồng cây" giúp người dùng quản lý thông tin về cây cảnh của mình.
-
-Ứng dụng cung cấp các giải pháp về việc chăm sóc cây cảnh, thông tin về cây cảnh, hướng dẫn cách trồng cây, ...
-
+- Bài tập cuối khóa JAVA CORE của CLB Lập Trình PTIT.
+- Tên dự án: PRO - READER
+- Người thực hiện: Trần Xuân Sơn
+- Ứng dụng giúp hỗ trợ đọc File PDF, có chức năng tương tự 1 app đọc sách cơ bản
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@kaita](https://github.com/Yamaaaaaaaa)
 
 
 ## Demo
 
-Link Video Demo
+Link Video Demo: https://studio.youtube.com/video/o2JUfya9fEI/edit
 
 
 ## Screenshots
