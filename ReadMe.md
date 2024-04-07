@@ -49,8 +49,8 @@ Cách cài đặt dự án
 
 ## UML:
 
-1. Class Diagrame:
+1. Class Diagram:
 ![alt text](Main.jpg)
 
-2. Activity Diagrame:
+2. Activity Diagram:
 ![alt text](ActivityDiagram1.png)
