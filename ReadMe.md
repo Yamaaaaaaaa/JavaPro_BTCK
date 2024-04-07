@@ -46,3 +46,7 @@ Cách cài đặt dự án
   - Clone dự án
   - Chạy ứng dụng
 ```
+
+## UML:
+1. Class UML:
+![alt text](Main.jpg)
